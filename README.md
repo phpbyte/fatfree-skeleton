@@ -1,2 +1,2 @@
-# fatfree-skeleton
-Simple Custom FATFREE Skeleton
+# slim-skeleton
+Simple Custom Slim Skeleton
